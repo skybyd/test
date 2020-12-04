@@ -4,7 +4,7 @@ public class ArrayTest3 {
 	public static void main (String[] args) {
 	int [] i =new int[2];
 	i[0] = 1; 
-	System.out.prinln(i.length);
+	System.out.println(i.length);
     
     
 	/*
